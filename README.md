@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insightfulMind
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning the coding domain
+- 👀 I’m interested in AI/ML and the whole domain of coding and R&D
+- 🌱 I am starting my journey of technology more evidently.
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: perfectionist and procrastinator are the worst combos 
